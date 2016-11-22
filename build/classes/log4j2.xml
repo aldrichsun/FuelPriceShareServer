@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by Yu Sun on 28/01/2015 to configure log4j 2 logger -->
+<Configuration status="WARN" monitorInterval="5">
+	<Appenders>
+		<Console name="Console" target="SYSTEM_OUT">
+			<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] 	%-5level %logger{36} - %msg%n"/>
+		</Console>
+	</Appenders>
+	<Loggers>
+		<Logger name="PutGetDataTask" level="error" additivity="false">
+			<AppenderRef ref="Console"/>
+		</Logger>
+		<Root level="debug">
+			<AppenderRef ref="Console"/>
+		</Root>
+		<Logger name="BulkInsert" level="info" additivity="false">
+			<AppenderRef ref="Console"/>
+		</Logger>
+	</Loggers>
+</Configuration>

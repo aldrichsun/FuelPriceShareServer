@@ -1,0 +1,21 @@
+{"id":"station_1", "name":"Shell One", "longitude":144.981239, "latitude":-37.795655, "fuel_provided": [{"fuel_name":"Unleaded","price":101.2}, {"fuel_name":"LPG","price":52.9}]}
+{"id":"station_2", "name":"Shell Two", "longitude":144.883618, "latitude":-37.842716, "fuel_provided": [{"fuel_name":"Unleaded","price":103.2}, {"fuel_name":"LPG","price":51.9}]}
+{"id":"station_3", "name":"Shell 3", "longitude":144.186367, "latitude":-38.409649, "fuel_provided": [{"fuel_name":"Unleaded","price":113.2}, {"fuel_name":"LPG","price":53.9}]}
+{"id":"station_4", "name":"Shell 4th", "longitude":144.979331, "latitude":-37.790657, "fuel_provided": [{"fuel_name":"Unleaded","price":105.2}, {"fuel_name":"LPG","price":54.2}]}
+{"id":"station_5", "name":"Coles Express one", "longitude":144.966770, "latitude":-37.815860, "fuel_provided": [{"fuel_name":"Unleaded","price":105.2}, {"fuel_name":"LPG","price":55.2}]}
+{"id":"station_6", "name":"Coles Express Two", "longitude":144.970826, "latitude":-37.803885, "fuel_provided": [{"fuel_name":"Unleaded","price":103.5}, {"fuel_name":"LPG","price":52.1}]}
+{"id":"station_7", "name":"Coles Express 3", "longitude":144.962377, "latitude":-37.815664, "fuel_provided": [{"fuel_name":"Unleaded","price":103.3}, {"fuel_name":"LPG","price":55.3}]}
+{"id":"station_8", "name":"Coles Express 4", "longitude":144.957637, "latitude":-37.817531, "fuel_provided": [{"fuel_name":"Unleaded","price":104.2}, {"fuel_name":"LPG","price":56.3}]}
+{"id":"station_9", "name":"Caltex One", "longitude":145.120198, "latitude":-38.147309, "fuel_provided": [{"fuel_name":"Unleaded","price":104.2}, {"fuel_name":"LPG","price":51.3}]}
+{"id":"station_10", "name":"Caltex Top", "longitude":145.011150, "latitude":-37.908029, "fuel_provided": [{"fuel_name":"Unleaded","price":107.2}, {"fuel_name":"LPG","price":51.2}]}
+{"id":"station_11", "name":"Caltex Home", "longitude":145.082643, "latitude":-37.711085, "fuel_provided": [{"fuel_name":"Unleaded","price":102.2}, {"fuel_name":"LPG","price":50.1}]}
+{"id":"station_12", "name":"Caltex Lowest Price", "longitude":145.263483, "latitude":-37.905993, "fuel_provided": [{"fuel_name":"Unleaded","price":110.2}, {"fuel_name":"LPG","price":55.9}]}
+{"id":"station_13", "name":"Caltex Melbourne", "longitude":144.962531, "latitude":-37.819908, "fuel_provided": [{"fuel_name":"Unleaded","price":99.2}, {"fuel_name":"LPG","price":52.6}]}
+{"id":"station_14", "name":"7 Eleven 1", "longitude":144.653572, "latitude":-37.902298, "fuel_provided": [{"fuel_name":"Unleaded","price":106.5}, {"fuel_name":"LPG","price":56.2}]}
+{"id":"station_15", "name":"7 Eleven 2", "longitude":145.057186, "latitude":-37.827499, "fuel_provided": [{"fuel_name":"Unleaded","price":108.3}, {"fuel_name":"LPG","price":56.4}]}
+{"id":"station_16", "name":"7 Eleven 3", "longitude":144.987159, "latitude":-37.834291, "fuel_provided": [{"fuel_name":"Unleaded","price":103.7}, {"fuel_name":"LPG","price":52.3}]}
+{"id":"station_17", "name":"7 Eleven 4", "longitude":144.190642, "latitude":-38.409086, "fuel_provided": [{"fuel_name":"Unleaded","price":104.5}, {"fuel_name":"LPG","price":56.4}]}
+{"id":"station_18", "name":"7 Eleven 5", "longitude":144.964074, "latitude":-37.814910, "fuel_provided": [{"fuel_name":"Unleaded","price":105.3}, {"fuel_name":"LPG","price":51.5}]}
+{"id":"station_19", "name":"BP 12", "longitude":144.992779, "latitude":-37.846697, "fuel_provided": [{"fuel_name":"Unleaded","price":108.2}, {"fuel_name":"LPG","price":51.3}]}
+{"id":"station_20", "name":"BP Melbourne", "longitude":144.929590, "latitude":-37.787868, "fuel_provided": [{"fuel_name":"Unleaded","price":107.5}, {"fuel_name":"LPG","price":54.9}]}
+{"id":"station_21", "name":"BP Your Choice", "longitude":144.853658, "latitude":-37.670797, "fuel_provided": [{"fuel_name":"Unleaded","price":102.6}, {"fuel_name":"LPG","price":50.4}]}
